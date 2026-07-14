@@ -25,3 +25,4 @@ const reverseArray = (arr)=>{
 const reverseArrayResult = reverseArray([1,2,3])
 
 console.log(reverseArrayResult);
+
